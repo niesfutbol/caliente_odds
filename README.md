@@ -3,7 +3,7 @@ src="https://github.com/nepito/world_cup_semis/blob/develop/img/logo.jpeg" align
 /></a>
 
 # Caliente Odds
-[![codecov](https://codecov.io/github/niesfutbol/caliente_odds/graph/badge.svg?token=SPGA1DM17D)](https://codecov.io/github/niesfutbol/caliente_odds)
+[![codecov](https://codecov.io/gh/niesfutbol/caliente_odds/graph/badge.svg?token=lHCgQN0p91)](https://codecov.io/gh/niesfutbol/caliente_odds)
 ![licencia](https://img.shields.io/github/license/niesfutbol/caliente_odds)
 ![languages](https://img.shields.io/github/languages/top/niesfutbol/caliente_odds)
 ![commits](https://img.shields.io/github/commit-activity/y/niesfutbol/caliente_odds)
